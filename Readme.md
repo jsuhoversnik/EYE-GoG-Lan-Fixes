@@ -22,6 +22,11 @@ Updated Menu:
 
 # Installation
 
+Download or clone this repo to your computer
+
+![image](https://user-images.githubusercontent.com/2367440/141928847-1a9e4061-f6f6-4ec6-b8aa-8facecced34c.png)
+
+
 Copy the EYE folder into your E.Y.E. install directory, and replace the files when prompted.
 
 
