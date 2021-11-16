@@ -9,6 +9,17 @@ The modified files in this repo add restore the hidden options in the create ser
 
 The 'SECONDARY MISSIONS [SOLO]' label is only renamed for english localization
 
+<hr>
+
+Original GoG version Menu:
+
+![image](https://user-images.githubusercontent.com/2367440/141922617-aa359770-3f2f-4509-b647-b10ac5b59954.png)
+
+Updated Menu:
+
+![image](https://user-images.githubusercontent.com/2367440/141922662-2406c33d-0a00-4859-a91f-850d6eae2e9d.png)
+
+
 # Installation
 
 Copy the EYE folder into your E.Y.E. install directory, and replace the files when prompted.
