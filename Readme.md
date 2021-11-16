@@ -5,7 +5,7 @@ The Good Old Games release of E.Y.E Divine Cybermancy disabled the Online and La
 
 All of the multiplayer options still exist in the game, the menu buttons for them just got hidden or disabled. 
 
-The modified files in this repo add restore the hidden options in the create server menu dialog, and revert the menu button's name from 'SECONDARY MISSIONS [SOLO]' to 'Create Server'
+The modified files in this repo restore the hidden options in the create server menu dialog, and revert the menu button's name from 'SECONDARY MISSIONS [SOLO]' to 'Create Server'
 
 The 'SECONDARY MISSIONS [SOLO]' label is only renamed for english localization
 
